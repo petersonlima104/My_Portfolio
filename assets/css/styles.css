@@ -1,7 +1,7 @@
 :root {
   --brand: #2563eb;
   --brand-2: #1e293b;
-  --accent: #06b6d4;
+  --accent: #004552;
   --bg-hero: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.25));
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial;
@@ -19,7 +19,7 @@
 .hero .overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.45);
+  background: rgba(73, 73, 73, 0.45);
 }
 .hero .hero-content {
   position: relative;
