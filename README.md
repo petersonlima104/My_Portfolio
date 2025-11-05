@@ -50,7 +50,7 @@ Este portfólio foi criado com o propósito de **demonstrar minhas habilidades t
 
 ## 📬 Contato
 
-📧 **E-mail:** seuemail@exemplo.com  
+📧 **E-mail:** peter.lima104@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/petersonlima](https://www.linkedin.com/in/peterson-antonio-morbach-lima-b5b3571a8/)  
 🐙 **GitHub:** [github.com/petersonlima104](https://github.com/petersonlima104)
 
