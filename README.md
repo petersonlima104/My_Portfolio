@@ -13,7 +13,7 @@ O objetivo é reunir em um só lugar meus projetos mais relevantes — desde web
 
 O portfólio está **hospedado e disponível para visualização pública** no link abaixo 👇  
 
-👉 **Acesse aqui:** [🌎 Meu Portfólio Online](https://portfoliopetersonlima.wuaze.com/)
+👉 **Acesse aqui:** [🌎 Meu Portfólio Online](https://portfoliopetersonlima.page.gd/)
 
 ---
 
